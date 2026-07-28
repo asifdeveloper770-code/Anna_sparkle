@@ -26,7 +26,7 @@ export function Footer() {
               className="inline-flex items-center gap-2 text-2xl sm:text-3xl font-black hover:text-magenta-soft transition-colors"
             >
               <Phone className="h-6 w-6" />
-              546-881-1879
+              (646) 881-1879
             </a>
           </div>
 
