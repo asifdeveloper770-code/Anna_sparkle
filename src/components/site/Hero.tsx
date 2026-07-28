@@ -60,7 +60,7 @@ export function Hero() {
                 <span className="h-8 w-8 rounded-full bg-magenta ring-2 ring-background" />
                 <span className="h-8 w-8 rounded-full bg-navy ring-2 ring-background" />
               </div>
-              <span>Loved by 200+ homes &amp; hosts</span>
+              <span className="ml-2">Loved by 200+ homes &amp; hosts</span>
             </div>
           </motion.div>
 
